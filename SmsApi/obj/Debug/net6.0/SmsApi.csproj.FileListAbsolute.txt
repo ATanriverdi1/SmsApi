@@ -1,0 +1,12 @@
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\bin\Debug\net6.0\SmsApi.deps.json
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\bin\Debug\net6.0\SmsApi.dll
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\bin\Debug\net6.0\SmsApi.pdb
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\SmsApi.csproj.AssemblyReference.cache
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\SmsApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\SmsApi.AssemblyInfoInputs.cache
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\SmsApi.AssemblyInfo.cs
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\SmsApi.csproj.CoreCompileInputs.cache
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\SmsApi.dll
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\refint\SmsApi.dll
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\SmsApi.pdb
+D:\Projects(Rider)\Ticimax\SmsSdk\SmsApi\obj\Debug\net6.0\ref\SmsApi.dll
